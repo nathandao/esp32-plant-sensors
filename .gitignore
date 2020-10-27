@@ -1,0 +1,7 @@
+plant_sensors/config.h
+plant_sensors/build
+
+.venv
+.envrc
+
+shell.nix
